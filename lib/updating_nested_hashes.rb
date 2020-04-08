@@ -62,7 +62,7 @@ def add_characters
    # Code your solution here:
 
 {additional_characters: [array]}
-{name: key}
+{name: "Prince Escalus"}
 
 
 
