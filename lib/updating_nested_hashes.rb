@@ -63,7 +63,7 @@ def add_characters
 
 {additional_characters: [array]}
 {name: "Prince Escalus"}
-{name: "Apothecary"
+{name: "Apothecary"}
 
 
 
